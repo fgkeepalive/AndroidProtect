@@ -2,7 +2,7 @@
 Android加固，支持提供aar，aab，apk加固，一键过马甲包，一键抹除aab中的机器码识别，抹除开发者信息，解决apk app 各种安装报毒，欢迎咨询
 
 
-# AndroidProtect 强大的 Android 加固工具，能达到邦硬的效果😊
+# AndroidProtect 强大的 Android 加固工具，让您的应用邦硬😊
 
 AndroidProtect 是一款强大的 Android 加固工具，提供以下功能：
 
