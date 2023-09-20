@@ -33,9 +33,13 @@ AndroidProtect 适用于以下场景：
 
 **联系方式**
 
-如果您有任何问题或需要了解更多信息，请联系我们：
 
-* 邮箱：[email protected]
-* 电话：123456789
+请注明来意，根据以下联系方式获取：
 
+![weixin](wx.jpg)
+
+> 邮箱：fgkeepalive@gmail.com
+> 
+> telegram(需要科学上网)：https://t.me/androidkeepalive
+> 
 **立即体验 AndroidProtect，保护您的应用程序免受攻击！**
