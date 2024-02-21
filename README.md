@@ -1,7 +1,7 @@
 # AndroidProtect
 Android加固，支持提供aar，aab，apk加固，一键过马甲包，一键抹除aab中的机器码识别，抹除开发者信息，解决apk app 各种安装报毒，欢迎咨询
 
-另提供google高稳定性开发者账号,有需要欢迎联系购买 详情
+另提供google高稳定性开发者账号,有需要欢迎联系购买 [详情地址](https://github.com/fgkeepalive/google-play-store-developer-account)
 
 
 # AndroidProtect 强大的 Android 加固工具
@@ -11,7 +11,7 @@ AndroidProtect 是一款强大的 Android 加固工具，提供以下功能：
 * **支持多种格式加固**：支持 aar、aab、apk 等多种格式加固，满足不同需求。
 * **一键过马甲包**：一键过滤马甲包中的敏感信息，保护您的知识产权。
 * **一键抹除机器码识别**：一键抹除 aab 中的机器码识别，防止安装包特征追棕。
-* **抹除开发者信息**：抹除 APK aab 中的开发者信息，保护您的隐私。
+* **抹除开发者信息**：抹除 APK aab 中的开发者信息,文件特征混淆，保护您的隐私。
 * **解决 APK app 各种安装报毒**：解决、防止 APK app 在各大应用市场安装误报毒的问题，提升应用上架成功率。让用户放心安装。
 * **防止被扫描代码**：加固后代码消失，可以防止被一些常规工具，或者google play 扫描您的应用代码。
 
