@@ -1,5 +1,5 @@
 # AndroidProtect
-Android加固，支持提供aar，aab，apk加固，一键过马甲包，一键抹除aab中的机器码识别，抹除开发者信息，解决apk app 各种安装报毒，欢迎咨询
+Android VMP 加固，支持提供aar，aab，apk加固，一键过马甲包，一键抹除aab中的机器码识别，抹除开发者信息，解决apk app 各种安装报毒，欢迎咨询
 
 另提供google高稳定性开发者账号,有需要欢迎联系购买 [详情地址](https://github.com/fgkeepalive/google-play-store-developer-account)
 
