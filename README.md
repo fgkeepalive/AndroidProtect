@@ -38,7 +38,6 @@ AndroidProtect 适用于以下场景：
 
 请注明来意，根据以下联系方式获取：
 
-![weixin](wx.jpg)
 
 > 邮箱：fgkeepalive@gmail.com
 > 
